@@ -1,0 +1,37 @@
+.logo-navbar {
+
+    width: 40px;
+    margin: auto;
+}
+
+.chip {
+
+    width: 80px;
+    margin: auto;
+}
+
+.logo-main {
+
+    width: 400px;
+    margin: auto;
+}
+
+.main-space {
+
+    margin-bottom: 100px;
+}
+
+.small-space {
+
+    margin-bottom: 30px;
+}
+
+.bg {
+
+    background-color: #007c15;
+}
+
+.text {
+
+    color: rgb(255, 255, 255);
+}
